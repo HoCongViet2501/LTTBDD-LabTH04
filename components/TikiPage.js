@@ -12,6 +12,7 @@ export default function TikiPage() {
                     <Text style={{ fontSize: 15, fontWeight: "bold" }}>Nguyen ham tich phan va ung dung</Text>
                     <Text style={{ fontSize: 15, fontWeight: "bold" }}>Nguyen ham tich phan va ung dung</Text>
                     <Text style={{ fontSize: 18, fontWeight: "bold", marginTop: 10, color: "red" }}>148.000D</Text>
+                    <Text style={{textDecorationLine:"line-through", fontSize:14,color:"gray"}}>150.000D</Text>
                 </View>
             </Box>
         </VStack>
